@@ -1,12 +1,12 @@
 # Project Grimhilde
 
 ## Original project
-- http://michaelteeuw.nl/post/80391333672/magic-mirror-part-i-the-idea-the-mirror
-- http://michaelteeuw.nl/post/81059936176/magic-mirror-part-ii-the-monitor
-- http://michaelteeuw.nl/post/81784924322/magic-mirror-part-iii-the-casing
-- http://michaelteeuw.nl/post/82565319113/magic-mirror-part-iv-install-the-hardware
-- http://michaelteeuw.nl/post/83188136918/magic-mirror-part-v-installing-the-raspberry-pi
-- http://michaelteeuw.nl/post/83916869600/magic-mirror-part-vi-production-of-the
+- [http://michaelteeuw.nl/post/80391333672/magic-mirror-part-i-the-idea-the-mirror](Magic Mirror: Part I - The Idea & The Mirror)
+- [http://michaelteeuw.nl/post/81059936176/magic-mirror-part-ii-the-monitor](Magic Mirror: Part II - The Monitor)
+- [http://michaelteeuw.nl/post/81784924322/magic-mirror-part-iii-the-casing](Magic Mirror: Part III - The Casing)
+- [http://michaelteeuw.nl/post/82565319113/magic-mirror-part-iv-install-the-hardware](Magic Mirror: Part IV - Install The Hardware)
+- [http://michaelteeuw.nl/post/83188136918/magic-mirror-part-v-installing-the-raspberry-pi](Magic Mirror: Part V - Installing the Raspberry Pi)
+- [http://michaelteeuw.nl/post/83916869600/magic-mirror-part-vi-production-of-the](Magic Mirror: Part VI - Production of the Interface)
 
 ## Mirror
 - https://www.pyrasied.nl/product/doorkijkspiegel/ - This looks like the best option!
