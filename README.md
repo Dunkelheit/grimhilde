@@ -37,3 +37,13 @@
 | Sound card | Creative Sound Blaster Play! 2 | 22,94 |
 | Microphone | König Clip-on Microphone | 7,15 |
 | | **Total** | **264,06** |
+
+## Panel measurements
+
+### Top
+
+![bottom](https://user-images.githubusercontent.com/448131/27300625-9b68bd52-5530-11e7-86cc-38b535f844b0.jpg)
+
+### Bottom
+
+![top](https://user-images.githubusercontent.com/448131/27300626-9b80779e-5530-11e7-8ef5-e971867eea00.jpg)
