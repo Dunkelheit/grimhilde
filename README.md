@@ -1,5 +1,7 @@
 # Project Grimhilde
 
+![grimhilde](https://user-images.githubusercontent.com/448131/27292016-3e750506-5512-11e7-95b7-bb1d6a76ca36.jpg)
+
 ## Original project
 - [Magic Mirror: Part I - The Idea & The Mirror](http://michaelteeuw.nl/post/80391333672/magic-mirror-part-i-the-idea-the-mirror)
 - [Magic Mirror: Part II - The Monitor](http://michaelteeuw.nl/post/81059936176/magic-mirror-part-ii-the-monitor)
