@@ -66,6 +66,15 @@ Follow all the steps in MagicMirror²'s [Configuring the Raspberry Pi](https://g
 
 ## Images
 
+## Frame
+
+Wall thickness: 10 mm
+Frame length: 50 mm
+
+![frame-bottom](https://user-images.githubusercontent.com/448131/27353024-f634d306-5602-11e7-95b2-e83ae993901a.jpg)
+
+![frame-top](https://user-images.githubusercontent.com/448131/27353025-f64e8f44-5602-11e7-90db-fd9eeb892aec.jpg)
+
 ### Panel top
 
 ![panel-top](img/panel-top.jpg)
